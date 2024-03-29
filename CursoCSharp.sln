@@ -11,11 +11,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula15", "Aula15\Aula15.csp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula17", "Aula17\Aula17.csproj", "{80EE11F9-0633-4A3C-9492-9E58100B110A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula18", "Aula18\Aula18.csproj", "{E79B82C2-9FE2-4660-896D-64A140EFE5E2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula18", "Aula18\Aula18.csproj", "{E79B82C2-9FE2-4660-896D-64A140EFE5E2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio1", "Exercicio1\Exercicio1.csproj", "{735E90E4-4D20-4B3C-B934-BCC2136A591C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicio1", "Exercicio1\Exercicio1.csproj", "{735E90E4-4D20-4B3C-B934-BCC2136A591C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula19", "Aula19\Aula19.csproj", "{6A86D1B6-48F9-47BD-9AE0-9D722FD7FD51}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula19", "Aula19\Aula19.csproj", "{6A86D1B6-48F9-47BD-9AE0-9D722FD7FD51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula20", "Aula20\Aula20.csproj", "{CAC093E9-B8F2-4347-A36C-16326F105A27}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{6A86D1B6-48F9-47BD-9AE0-9D722FD7FD51}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6A86D1B6-48F9-47BD-9AE0-9D722FD7FD51}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6A86D1B6-48F9-47BD-9AE0-9D722FD7FD51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAC093E9-B8F2-4347-A36C-16326F105A27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAC093E9-B8F2-4347-A36C-16326F105A27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAC093E9-B8F2-4347-A36C-16326F105A27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAC093E9-B8F2-4347-A36C-16326F105A27}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
