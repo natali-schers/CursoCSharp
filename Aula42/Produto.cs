@@ -18,6 +18,16 @@ namespace Aula42
             return Preco * Quantidade;
         }
 
+        public void AdicionarEstoque(int qntd)
+        {
+            Quantidade += qntd;
+        }
+
+        public void RemoverEstoque(int qntd)
+        {
+            Quantidade -= qntd;
+        }
+
         public override string ToString()
         {
             return "Produto: " + Nome + ". Valor unitário R$" + Preco.ToString("F2", CultureInfo.InvariantCulture) + ". Estoque: " + Quantidade + " unidades. Valor total em estoque: R$" + ValorTotalEstoque().ToString("F2", CultureInfo.InvariantCulture) + ".";
